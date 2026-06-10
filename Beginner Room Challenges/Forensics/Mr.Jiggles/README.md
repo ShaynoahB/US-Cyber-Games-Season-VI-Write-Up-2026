@@ -4,7 +4,7 @@ Mr Jiggles my pet cat ran away and when I put up flyers this was the photo I use
 
 Solution
 
-1. Used exiftool to analyze image metadata and discovered a Base64 encoded string in the comment field in the metadata.
+1. Since the description mention " learn more about his whereabouts" I knew that was a hint to metadata which tells you information such as location and ec.t of an image. Used exiftool to analyze image metadata and discovered a Base64 encoded string in the comment field in the metadata.
 <img width="642" height="511" alt="image" src="https://github.com/user-attachments/assets/5d8f197a-dbbe-409d-b5fd-9ee9e8a47517" />
 2. Decoded the string in CyberChef
 <img width="1038" height="635" alt="image" src="https://github.com/user-attachments/assets/7e66d8e2-243e-4d15-bd01-1b4d04637353" />
