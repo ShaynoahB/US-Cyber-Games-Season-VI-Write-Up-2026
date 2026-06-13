@@ -53,6 +53,11 @@ Solution
 
     <img width="287" height="292" alt="image" src="https://github.com/user-attachments/assets/59ff326f-5413-4352-95ab-0556badd8f1e" />
 
+18. Yay! Got the Flag
+
+<img width="381" height="263" alt="image" src="https://github.com/user-attachments/assets/789ba37c-0cbe-495b-8533-2fb3c4047877" />
+
+
 
 
 
