@@ -6,7 +6,8 @@ Description
 Solution
 1. Unzip the the file and in the MainDoc file I see that a graphic application was used 'Krita'
    
-<img width="861" height="608" alt="Screenshot 2026-06-13 190234" src="https://github.com/user-attachments/assets/afef2f87-56c9-4616-8346-80fe64c76d11" />
+<img width="1386" height="240" alt="Screenshot 2026-06-13 192706" src="https://github.com/user-attachments/assets/7b1f0067-daf4-41f5-8419-daa5a04293a4" />
+
 
    
 3. Downloaded the application and imported each layer on the picture to display the flag'
