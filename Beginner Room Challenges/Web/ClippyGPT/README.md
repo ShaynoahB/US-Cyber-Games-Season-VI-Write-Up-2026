@@ -58,16 +58,6 @@ Solution
 <img width="381" height="263" alt="image" src="https://github.com/user-attachments/assets/789ba37c-0cbe-495b-8533-2fb3c4047877" />
 
 
-
-
-
-    
-
-
-
-
-
-
 Flag
 
 SVIBGR{jw7_4i_7rus7_issu3}
