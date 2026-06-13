@@ -6,13 +6,13 @@ Description
 Solution
 1. Unzip the the file and in the MainDoc file I see that a graphic application was used 'Krita'
 2. Downloaded the application and imported each layer on the picture to display the flag'
-    vv
+    
     
 
     
 
 Flag
 
-
+SVIBGR{Kik!_s@ys_T3ch_w/_<3!}
     
   
