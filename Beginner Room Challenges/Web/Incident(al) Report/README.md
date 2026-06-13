@@ -7,6 +7,8 @@ Solution
 
 1. Open the website to see a service status page
 
+<img width="1206" height="928" alt="image" src="https://github.com/user-attachments/assets/82bcc07e-2d9e-4503-adda-feceafb638a6" />
+
    
 3. Inspected the page source to see that its talking to an API to display the different components of the page
 
