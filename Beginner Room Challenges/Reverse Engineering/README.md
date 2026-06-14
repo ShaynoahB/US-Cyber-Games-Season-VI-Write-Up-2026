@@ -3,23 +3,41 @@ Description
 A retired cutter's maintenance utility will not bring an emergency beacon back online until the correct override phrase is entered. Recover the phrase from the binary and submit it as the flag.
 
 Solution
+
+
 1.EXFTOOL th file to confirm its an ELF
+
+
 2. Changed the permmission of the file so I can run it
-3. Ran the file
-4. Open the file in Ghidra
-5. In the main function (i renamed the fucntion from what ghidra created to help me keep track), I see the process output when we ran the exectuable in temrinal but now we can see that user input isnt being compared
+
+   
+4. Ran the file
+
+   
+6. Open the file in Ghidra
+
+   
+8. In the main function (i renamed the fucntion from what ghidra created to help me keep track), I see the process output when we ran the exectuable in temrinal but now we can see that user input isnt being compared
+
+   
 <img width="1218" height="612" alt="image" src="https://github.com/user-attachments/assets/bc927eea-a87a-4091-ba6e-1b52501acad3" />
 
-6. First we see that user input (aso what i renamed) it ran through the FUN_00401184 function first.
+10. First we see that user input (aso what i renamed) it ran through the FUN_00401184 function first.
+
+    
 6. The function just removes a \n (santizing function)
+
+   
    <img width="382" height="215" alt="image" src="https://github.com/user-attachments/assets/1557e40b-113f-434c-9a1e-c3fd0b2e71ec" />
 
 8. Then the varible is put in FUN_004011d2 which a integer is suppose to return.
-9. This function is very important. It shows us the condition. First it checks if the parameter passed is 23 long
+
+   
+10. This function is very important. It shows us the condition. First it checks if the parameter passed is 23 long
 
 <img width="527" height="353" alt="image" src="https://github.com/user-attachments/assets/a6d99dc0-f2c0-47ab-bfd7-c2fe9cdb920e" />
 
-10. Then it first does a mathematical operation on user input in function FUN_00401166
+10. Then it first does a mathematical operation on user input in function FUN_00401166. Upon further look, it looks like XOR operation is being udes
 
    <img width="401" height="135" alt="image" src="https://github.com/user-attachments/assets/6804e396-d7d3-4f40-a87b-280d680ad3dd" />
 
