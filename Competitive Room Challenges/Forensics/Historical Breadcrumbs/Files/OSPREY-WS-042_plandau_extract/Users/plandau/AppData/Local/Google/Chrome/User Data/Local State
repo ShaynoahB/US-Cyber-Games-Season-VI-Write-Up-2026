@@ -1,0 +1,39 @@
+{
+   "browser": {
+      "last_known_google_account": "plandau@ospreycapital.com",
+      "last_to_persist_session_cookies": false
+   },
+   "hardware_acceleration_mode_previous": true,
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
+            "background_apps": false,
+            "gaia_given_name": "Piper",
+            "gaia_name": "Piper Landau",
+            "is_consented_primary_account": true,
+            "is_ephemeral": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": false,
+            "local_auth_credentials": "",
+            "managed_user_id": "",
+            "metrics_bucket_index": 1,
+            "name": "Piper Landau",
+            "signin_required": false,
+            "shortcut_name": "Piper Landau",
+            "user_name": "plandau@ospreycapital.com"
+         }
+      },
+      "last_active_profiles": [
+         "Default"
+      ],
+      "last_used": "Default",
+      "profiles_created": 1
+   },
+   "user_experience_metrics": {
+      "stability": {
+         "exited_cleanly": true,
+         "session_end_completed": true
+      }
+   }
+}

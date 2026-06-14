@@ -1,0 +1,13 @@
+Get-Date
+Set-Location $env:USERPROFILE
+Get-ChildItem -Path .\Documents -Filter "*.xlsx" | Sort-Object LastWriteTime -Descending
+net use \\OSPREY-FS01\Finance$ /user:OSPREY\plandau
+Copy-Item ".\Documents\Q4_2026_EOD_Positions.xlsx" "\\OSPREY-FS01\Finance$\Reports\2026\"
+Get-EventLog -LogName Security -Newest 20
+ipconfig /all
+ping 10.10.5.1
+Test-NetConnection -ComputerName OSPREY-FS01 -Port 445
+Set-Location "C:\Users\plandau\AppData\Local\Google\Chrome\User Data\Default"
+Get-ChildItem | Format-Table Name, Length, LastWriteTime
+Set-Location $env:USERPROFILE
+exit

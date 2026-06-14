@@ -1,0 +1,82 @@
+{
+   "checksum": "2a4f8d1e3c7b9a0f5e2d6c8b4a1f3e7d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [
+            {
+               "date_added": "13426156800000000",
+               "date_last_used": "0",
+               "guid": "ab874772-8c10-4cf7-bbe0-f0762dcebf8d",
+               "id": "4",
+               "name": "Bloomberg Terminal",
+               "type": "url",
+               "url": "https://bba.bloomberg.net/"
+            },
+            {
+               "date_added": "13426156800001000",
+               "date_last_used": "0",
+               "guid": "f09afa83-e831-4300-b482-926f82b6d8f7",
+               "id": "5",
+               "name": "FactSet",
+               "type": "url",
+               "url": "https://www.factset.com/"
+            },
+            {
+               "date_added": "13426156800002000",
+               "date_last_used": "0",
+               "guid": "fd3ef451-f26a-4b6c-8598-89d7e409cde6",
+               "id": "6",
+               "name": "SharePoint \u2013 Finance",
+               "type": "url",
+               "url": "https://osprey-cap.sharepoint.com/sites/finance/"
+            },
+            {
+               "date_added": "13426156800003000",
+               "date_last_used": "0",
+               "guid": "868f71b9-af38-4c56-8d98-89b4180cf749",
+               "id": "7",
+               "name": "Refinitiv Eikon",
+               "type": "url",
+               "url": "https://eikon.refinitiv.com/"
+            },
+            {
+               "date_added": "13426156800004000",
+               "date_last_used": "0",
+               "guid": "adcc81b6-9a03-49b8-8563-887f75de1593",
+               "id": "8",
+               "name": "Confluence \u2013 Ops Wiki",
+               "type": "url",
+               "url": "https://osprey-capital.atlassian.net/wiki/"
+            }
+         ],
+         "date_added": "13426156799999000",
+         "date_last_used": "0",
+         "date_modified": "13428748800000000",
+         "guid": "0bc5d13f-2cba-4991-b485-b54b1bc17c1b",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [],
+         "date_added": "13426156799998000",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3b58-4ada-93df-c8f53c6c80a2",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [],
+         "date_added": "13426156799997000",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

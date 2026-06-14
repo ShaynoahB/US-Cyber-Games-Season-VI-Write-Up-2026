@@ -1,0 +1,67 @@
+{
+   "account_id_migration_state": 2,
+   "autofill": {
+      "credit_card_enabled": true,
+      "enabled": true,
+      "profile_enabled": true
+   },
+   "browser": {
+      "check_default_browser": false,
+      "has_seen_welcome_page": true,
+      "last_known_google_account": "plandau@ospreycapital.com",
+      "session": {
+         "restore_on_startup": 1,
+         "urls_to_restore_on_startup": []
+      },
+      "show_home_button": false,
+      "window_placement": {
+         "bottom": 1040,
+         "left": 0,
+         "maximized": true,
+         "right": 1920,
+         "top": 0,
+         "work_area_bottom": 1040,
+         "work_area_left": 0,
+         "work_area_right": 1920,
+         "work_area_top": 0
+      }
+   },
+   "credentials_enable_autosignin": true,
+   "credentials_enable_service": true,
+   "default_search_provider_data": {
+      "template_url_data": {
+         "keyword": "google.com",
+         "short_name": "Google",
+         "url": "https://www.google.com/search?q={searchTerms}"
+      }
+   },
+   "net": {
+      "network_prediction_options": 2
+   },
+   "profile": {
+      "avatar_index": 26,
+      "content_settings": {},
+      "created_by_version": "125.0.6422.112",
+      "exit_type": "Normal",
+      "name": "Piper Landau",
+      "using_default_avatar": true,
+      "using_default_name": false
+   },
+   "safebrowsing": {
+      "enabled": true,
+      "enhanced": false
+   },
+   "search": {
+      "suggest_enabled": true
+   },
+   "signin": {
+      "allowed": true
+   },
+   "spellcheck": {
+      "dictionaries": [
+         "en-US"
+      ],
+      "dictionary": ""
+   },
+   "translate_blocked_languages": []
+}
