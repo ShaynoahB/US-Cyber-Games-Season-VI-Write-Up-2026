@@ -13,7 +13,7 @@ Steps
 
    <img width="548" height="258" alt="image" src="https://github.com/user-attachments/assets/835d8191-209e-46e4-b1fd-36d5e7574de0" />
 
-3. Open BurpSuite, intercepted the site and changed the header to Post. This revela an archived path called '/assets_production_system_v3/bak/file_backup.sys'. This made me realize I could've just change the URL to v3
+3. Open BurpSuite, intercepted the site and changed the request meader from GET to POST. This revela an archived path called '/assets_production_system_v3/bak/file_backup.sys'. This made me realize I could've just change the URL to v3
 
    <img width="897" height="753" alt="image" src="https://github.com/user-attachments/assets/87ba3814-c750-4649-b654-2a9d47cfe0fb" />
 
