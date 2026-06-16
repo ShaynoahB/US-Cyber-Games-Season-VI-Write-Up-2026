@@ -24,3 +24,5 @@ Help us ensure that our 3d assets are safe!
 
 
 5. This is where i got stucked :( Opening the file in a text editor revealed certificate-like data encoded in Base64. After decoding the data, I identified references to OpenSCAD, a script-based 3D modeling application.
+
+<img width="1105" height="556" alt="image" src="https://github.com/user-attachments/assets/e90c8522-ae92-427b-9fba-dc0ba6f7f064" />
