@@ -9,7 +9,7 @@ I asked ChatGPT to help me vibe code an app to hide my flags and it told me I wa
   
 # Solution  
 
-1. Opened the page source and reviewed the HTML contents. Scrolling through the source code revealed a hidden comment containing the next clue.
+1. Opened the page source and reviewed the HTML contents. Scrolling through the source code revealed a JS file with the flag.
 <img width="437" height="107" alt="image" src="https://github.com/user-attachments/assets/9797b4bd-226b-4d9c-896e-4cb560027327" />
 
   
