@@ -5,7 +5,7 @@ A retired cutter's maintenance utility will not bring an emergency beacon back o
 # Solution
 
 
-1.Used 'file' to identify the provided binary as an ELF executable.
+1. Used 'file' to identify the provided binary as an ELF executable.
 
 
 2. Modified the file permissions using chmod +x so the binary could be executed.
