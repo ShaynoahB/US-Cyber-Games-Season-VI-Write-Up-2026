@@ -26,7 +26,7 @@ A retired cutter's maintenance utility will not bring an emergency beacon back o
    
    <img width="382" height="215" alt="image" src="https://github.com/user-attachments/assets/1557e40b-113f-434c-9a1e-c3fd0b2e71ec" />
 
-7. The sanitized input is then passed to a validation function (FUN_004011d2), which returns an integer indicating whether the provided input is correct.Then the varible is put in  which a integer is suppose to return. This function is very important. Within the validation function, the program first checks that the input length is exactly 23 characters.
+7. The sanitized input is then passed to a validation function (FUN_004011d2), which returns an integer indicating whether the provided input is correct.Then the varible is put in  which a integer is suppose to return. This function is very important. Within the validation function, the program first checks that the input length is exactly 23 characters (0x17 in HEX).
 <img width="527" height="353" alt="image" src="https://github.com/user-attachments/assets/a6d99dc0-f2c0-47ab-bfd7-c2fe9cdb920e" />
 
 8. The input is then processed through another function. Upon analysis, this function was determined to perform an XOR operation on each character.
