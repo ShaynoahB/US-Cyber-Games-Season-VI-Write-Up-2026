@@ -8,10 +8,11 @@ Mr Jiggles my pet cat ran away and when I put up flyers this was the photo I use
    
 2. Used ExifTool to analyze the image metadata and identified a Base64-encoded string stored in the Comment field.
    
-<img width="642" height="511" alt="image" src="https://github.com/user-attachments/assets/5d8f197a-dbbe-409d-b5fd-9ee9e8a47517" />
+   <img width="642" height="511" alt="image" src="https://github.com/user-attachments/assets/5d8f197a-dbbe-409d-b5fd-9ee9e8a47517" />
 
 3. Copied the encoded string and decoded it using CyberChef, which revealed the flag.
-<img width="1038" height="635" alt="image" src="https://github.com/user-attachments/assets/7e66d8e2-243e-4d15-bd01-1b4d04637353" />
+   
+   <img width="1038" height="635" alt="image" src="https://github.com/user-attachments/assets/7e66d8e2-243e-4d15-bd01-1b4d04637353" />
 
 # Flag
 
