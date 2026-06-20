@@ -14,7 +14,7 @@ Lakeshore Threat Lab confirmed an attacker pivoted from FIN-WS-07 to NAS-MARITIM
    
 3. I Export the HTTP objects to further investigate the files.
    
- <img width="742" height="537" alt="image" src="https://github.com/user-attachments/assets/1be79501-dc31-4329-b592-3866d889798c" />
+   <img width="742" height="537" alt="image" src="https://github.com/user-attachments/assets/1be79501-dc31-4329-b592-3866d889798c" />
 
  
 4. In the dispatcher file, it mentions speaking with the "master"
@@ -23,7 +23,7 @@ Lakeshore Threat Lab confirmed an attacker pivoted from FIN-WS-07 to NAS-MARITIM
 
 5.  So, in the csv file that list all the crew members, I looked for the "master" in which there was a text that was encoded in Base64. I put the string into CyberChef to decode the flag
  
-   <img width="1305" height="660" alt="image" src="https://github.com/user-attachments/assets/3755cf77-fc10-4825-b150-128621aa6d6a" />
+    <img width="1305" height="660" alt="image" src="https://github.com/user-attachments/assets/3755cf77-fc10-4825-b150-128621aa6d6a" />
 
 # Flag
 
