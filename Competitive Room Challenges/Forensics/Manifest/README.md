@@ -22,7 +22,7 @@ Lakeshore Threat Lab confirmed an attacker pivoted from FIN-WS-07 to NAS-MARITIM
 
 5.  I then opened the crew member CSV and filtered the entries to show only users with the master rank. One of the rows contained a Base64-encoded string.
    
-   <img width="1305" height="168" alt="image" src="https://github.com/user-attachments/assets/0338becf-e6dd-4e03-8815-64de3bc49c73" />
+    <img width="1305" height="168" alt="image" src="https://github.com/user-attachments/assets/0338becf-e6dd-4e03-8815-64de3bc49c73" />
 
  6. I copied the string into CyberChef, decoded it from Base64, and recovered the flag.
     
