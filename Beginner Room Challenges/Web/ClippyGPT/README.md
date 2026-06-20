@@ -1,26 +1,20 @@
 # Description
 
 # Solution
+
 1. Opened the web application and discovered a chatbot-style interface.
-
    
-<img width="1772" height="932" alt="image" src="https://github.com/user-attachments/assets/09224c6d-3c3b-4a6a-baf5-9d6512774b0c" />
+   <img width="1772" height="932" alt="image" src="https://github.com/user-attachments/assets/09224c6d-3c3b-4a6a-baf5-9d6512774b0c" />
 
-
-2. Ran the !help command to enumerate the available commands and identified a get_flag option. Attempting to use it resulted in an authorization failure, indicating that additional privileges were required.
-
+2. Ran the '!help' command to enumerate the available commands and identified a 'get_flag' option. Attempting to use it resulted in an authorization failure, indicating that additional privileges were required.
    
    <img width="961" height="737" alt="image" src="https://github.com/user-attachments/assets/34fdaabf-2913-42ac-aab1-add859549ab4" />
-
    
 3. Inspected the page source and discovered a note to the developers including a signing key: 'cl1ppy1123!!!' and instructions to change 'ai_mode' to debug.
-
    
    <img width="1285" height="382" alt="image" src="https://github.com/user-attachments/assets/afd55834-06e8-441c-b3e9-a2d1cd13270a" />
-
    
 4. The exposed information suggested that user permissions were controlled through a signed token.
-
     
 5. Using Burp Suite, I intercepted requests and identified a session token.
 
@@ -53,7 +47,7 @@
 
 13. Yay! Got the Flag
 
-<img width="381" height="263" alt="image" src="https://github.com/user-attachments/assets/789ba37c-0cbe-495b-8533-2fb3c4047877" />
+      <img width="381" height="263" alt="image" src="https://github.com/user-attachments/assets/789ba37c-0cbe-495b-8533-2fb3c4047877" />
 
 
 # Flag
