@@ -13,6 +13,7 @@ Blue Mountain Geotechnical is a Denver-based soils and rock-mechanics consultanc
       <img width="607" height="223" alt="image" src="https://github.com/user-attachments/assets/7f0b4c72-1a8a-43f4-b2c5-dbfc1f37906b" />
 
 3.  After repairing the archive, extracted and reviewed its contents.
+   
       <img width="332" height="87" alt="image" src="https://github.com/user-attachments/assets/27c659a2-f666-439e-8c77-bab3c2b7de30" />
 
 4.  Examined the recovered text files and discovered a Base64-encoded string within the Project-Dispatched file.
